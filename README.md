@@ -31,7 +31,7 @@ You can see in this image the data model used in Power BI after the data was ext
 ![Data model](images/Data model.png)
 
 ### Visualizations 
-The final product is a 3 pages dashboard. The first one tell us a general perspective about the sales performance while other two focus in customers and products
+The final product is a 3 pages dashboard. The first is a snapshot of sales performance while other two focus on customers and sale metrics
 
 You can see the final dashboard clicking **[HERE](https://app.powerbi.com/groups/me/reports/38779509-37e6-43d9-b1cd-b209b48d75cf/ReportSection)** or in the image below
 
