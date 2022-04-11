@@ -1,9 +1,8 @@
 # SALES OVERVIEW 
 ### Project overview
-* This projec explores different business metrics and how they can be displayed graphically to follow them
+* This project explores different business metrics and how they can be displayed graphically to follow them
 * I explore the relation between sales, budget, costumers and products
 * We can obtain conclusions that will help us to make better marketing campaigns and improve profits
-* The tools used are SQL server and Power BI 
 
 ### Objectives:
 The goal is to build a sales report that shows summarized information about the business´s current situation to understand how to make more profits. 
