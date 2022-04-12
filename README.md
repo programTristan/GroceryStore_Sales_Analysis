@@ -35,7 +35,7 @@ The final product is a 3 pages dashboard. The first is a snapshot of sales perfo
 
 You can see the final dashboard clicking **[HERE](https://app.powerbi.com/groups/me/reports/38779509-37e6-43d9-b1cd-b209b48d75cf/ReportSection)** or in the image below
 
-[![Click for a better analysis](images/PB Sales Overview.PNG)](https://app.powerbi.com/groups/me/reports/38779509-37e6-43d9-b1cd-b209b48d75cf/ReportSection
+[![Click for a better analysis](image/Snapshot.png)](https://app.powerbi.com/groups/me/reports/38779509-37e6-43d9-b1cd-b209b48d75cf/ReportSection
 )
 
 ### Conclusions
