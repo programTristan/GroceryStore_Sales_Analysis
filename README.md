@@ -19,7 +19,7 @@ The most important indicators are sales, region, top customers, and top products
 
 ### Data preparation
 
-(images/Sales_excel2019.png)
+![Data model](images/Data_model.png)
 
 The data consists of 8 csv files, including 2 files for sales in 2019 and 2020. These will be uploaded to the Power Bi Dashboard for modeling. 
 
