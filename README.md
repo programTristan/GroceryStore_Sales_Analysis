@@ -33,7 +33,7 @@ You can see in this image the data model used in Power BI after the data was ext
 ### Visualizations 
 The final product is a 3 pages dashboard. The first is a snapshot of sales performance while other two focus on customers and sale metrics
 
-You can see the final dashboard clicking **[HERE](https://app.powerbi.com/links/BAIo8ZQThP?ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&pbi_source=linkShare)** or in the image below
+You can see the final dashboard clicking **[HERE](https://app.powerbi.com/groups/me/reports/e270ad7b-c546-4d13-97f7-50fe4e91dc3a/ReportSection?ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33)** or in the image below
 
 [![Click for a better analysis](image/Snapshot.png)](https://app.powerbi.com/groups/me/reports/38779509-37e6-43d9-b1cd-b209b48d75cf/ReportSection
 )
