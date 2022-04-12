@@ -28,14 +28,14 @@ You can see all the CSV files **[HERE](https://github.com/programTristan/Grocery
 ### Data model:
 You can see in this image the data model used in Power BI after the data was extracted.
 
-![Data model](image/Data_model.png)
+![Data model](images/Data_model.png)
 
 ### Visualizations 
 The final product is a 3 pages dashboard. The first is a snapshot of sales performance while other two focus on customers and sale metrics
 
 You can see the final dashboard clicking **[HERE](https://app.powerbi.com/reportEmbed?reportId=e270ad7b-c546-4d13-97f7-50fe4e91dc3a&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)** or in the image below
 
-[![Click for a better analysis](image/Snapshot.png)](https://app.powerbi.com/reportEmbed?reportId=e270ad7b-c546-4d13-97f7-50fe4e91dc3a&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
+[![Click for a better analysis](images/Snapshot.png)](https://app.powerbi.com/reportEmbed?reportId=e270ad7b-c546-4d13-97f7-50fe4e91dc3a&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
 
 ### Conclusions
 * The best customers are Jordan Turner, Maurice Shan, Janet Munoz, and Lisa Cai
