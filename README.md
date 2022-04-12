@@ -28,7 +28,7 @@ You can see all the CSV files **[HERE](https://github.com/Roberto121c/Sales_Mana
 ### Data model:
 You can see in this image the data model used in Power BI after the data was extracted.
 
-![Data model](images/Data model.png)
+![Data model](image/Data_model.png)
 
 ### Visualizations 
 The final product is a 3 pages dashboard. The first is a snapshot of sales performance while other two focus on customers and sale metrics
