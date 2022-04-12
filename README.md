@@ -18,12 +18,18 @@ The most important indicators are sales, region, top customers, and top products
 | A detailed overview of the best products | To follow those products that have better sales | A dashboard that can filter products by customer, city, and relevance |
 
 ### Data preparation
+
+(images/Sales_excel2019.png)
+
+[![](images/Sales_csv2019.png)]
+
+
 The data consists of 8 csv files, including 2 files for sales in 2019 and 2020. These will be uploaded to the Power Bi Dashboard for modeling. 
 
 
 You can see all the CSV files **[HERE](https://github.com/programTristan/GroceryStore_Sales_Analysis/tree/main/csv_files)**:
 
-[![](images/Sales query.PNG)](https://github.com/Roberto121c/Sales_Management/tree/main/Query)
+[![](images/Sales_csv2020.png)](https://github.com/Roberto121c/Sales_Management/tree/main/Query)
 
 ### Data model:
 You can see in this image the data model used in Power BI after the data was extracted.
