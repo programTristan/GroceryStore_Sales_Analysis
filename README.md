@@ -26,7 +26,7 @@ The data consists of 8 csv files, including 2 files for sales in 2019 and 2020. 
 
 You can see all the CSV files **[HERE](https://github.com/programTristan/GroceryStore_Sales_Analysis/tree/main/csv_files)**:
 
-[![](images/Sales_CSV2019.png)](https://github.com/Roberto121c/Sales_Management/tree/main/Query)
+[![](images/Sales_CSV2019.png)](https://github.com/programTristan/GroceryStore_Sales_Analysis/tree/main/csv_files)
 
 ### Data model:
 You can see in this image the data model used in Power BI after the data was extracted.
