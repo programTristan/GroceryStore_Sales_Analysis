@@ -2,7 +2,7 @@
 ### Project overview
 * This project explores sales data for an international grocery store chain.
 * I explore the relation between sales, regions, customers, products, stores, returns and date.
-* We can obtain conclusions that will help us to make better marketing campaigns and improve profits
+* We can obtain conclusions that will help us to make better marketing campaigns and improve profits.
 
 ### Objectives:
 The goal is to build a sales report that shows summarized information about the business´s current situation to understand how to make more profits. 
