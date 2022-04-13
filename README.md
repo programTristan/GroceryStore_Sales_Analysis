@@ -1,11 +1,11 @@
 # SALES OVERVIEW 
 ### Project overview
 * This project explores sales data for an international grocery store chain.
-* I explore the relation between sales, regions, customers, products, stores, returns and date.
+* I explore the relationship between variables: sales, regions, customers, products, stores, returns and calender.
 * We can obtain conclusions that will help us to make better marketing campaigns and improve profits.
 
 ### Objectives:
-The goal is to build a sales report that shows summarized information about the business´s current situation to understand how to make more profits. 
+Develop a sales report for 2019/2020 annual sales and returns.  summarized information about the business´s current situation to understand how to make more profits. 
 
 The most important indicators are sales, region, top customers, and top products:
 
