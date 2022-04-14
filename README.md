@@ -36,7 +36,7 @@ You can see in this image the data model used in Power BI after the data was ext
 ### Visualizations 
 The final product is a 3 pages dashboard. The first is a snapshot of sales performance while other two focus on customers and sale metrics
 
-You can see the final dashboard clicking **[HERE](https://app.powerbi.com/reportEmbed?reportId=e270ad7b-c546-4d13-97f7-50fe4e91dc3a&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)** or in the image below
+You can see the final dashboard clicking **[HERE](https://app.powerbi.com/reportEmbed?reportId=3d5b1bec-08ca-4d82-84b4-a3044bd442d2&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)** or in the image below
 
 [![Click for a better analysis](images/Snapshot.png)](https://app.powerbi.com/reportEmbed?reportId=3d5b1bec-08ca-4d82-84b4-a3044bd442d2&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
 
@@ -44,4 +44,4 @@ You can see the final dashboard clicking **[HERE](https://app.powerbi.com/report
 * Mexico is the only region that met company goals
 * The best customers are Ida Rodriguez, James Horvat, Dawn Laner
 * The most profitale product is Landslide Seaseme Oil 
-* Orders and Profits both increased from 2019 to 2020
+* Orders and Profits increased in 2020, as well as the number of Returns.
