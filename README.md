@@ -14,15 +14,16 @@ The most important indicators are sales, region, top customers, and top products
 | Demanding | Value | Deliverable |
 | ----------- | ----------- | ----------|
 | An overview of sales organized by clients | To acknowledge which customers, buy more and how to sell more to them | A dashboard that can filter customers by product, city, and relevance  |
-| A dashboard that summarizes the company's current situation |To understand which products and customers have the biggest impact on the company |A dashboard that shows the most important metrics and that can be updated everyday |
 | A detailed overview of the best products | To follow those products that have better sales | A dashboard that can filter products by customer, city, and relevance |
+| A dashboard that summarizes the company's current situation |To understand which products and customers have the biggest impact on the company |A dashboard that shows the most important metrics and that can be updated everyday |
+
 
 ### Data preparation
 
 ![](images/Sales_XL2019.png)
 
-The data consists of 8 csv files, including 2 files for sales in 2019 and 2020. These will be uploaded to the Power Bi Dashboard for modeling. 
-
+The orginal data was contructed through excel, and later exported into csv files.
+There a 8 csv files, including 2 for sales in 2019 and 2020. These will be uploaded to the Power Bi Dashboard for modeling. 
 
 You can see all the CSV files **[HERE](https://github.com/programTristan/GroceryStore_Sales_Analysis/tree/main/csv_files)**:
 
