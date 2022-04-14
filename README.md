@@ -13,7 +13,7 @@ The most important indicators are sales, region, top customers, and top products
 
 | Demanding | Value | Deliverable |
 | ----------- | ----------- | ----------|
-| A dashboard that summarizes the company's current situation | To understand which products and customers have the biggest impact on the company | A dashboard that shows the most important metrics and that can be updated everyday |
+| A dashboard that summarizes the company's current situation |  A dashboard that shows the most important metrics and that can be updated everyday| A To understand which products and customers have the biggest impact on the company |
 | An overview of sales organized by clients | To acknowledge which customers, buy more and how to sell more to them | A dashboard that can filter customers by product, city, and relevance  |
 | A detailed overview of the best products | To follow those products that have better sales | A dashboard that can filter products by customer, city, and relevance |
 
