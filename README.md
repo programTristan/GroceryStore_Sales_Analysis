@@ -5,7 +5,7 @@
 * We can obtain conclusions that will help us to make better marketing campaigns and improve profits.
 
 ### Objectives:
-Develop a sales report for 2019/2020 annual sales and returns.  summarized information about the business´s current situation to understand how to make more profits. 
+Develop a sales report for 2019/2020 annual sales and returns.  Summarized information about the business´s current situation to understand how to make more profits. 
 
 The most important indicators are sales, region, top customers, and top products:
 
