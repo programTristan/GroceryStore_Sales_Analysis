@@ -41,6 +41,7 @@ You can see the final dashboard clicking **[HERE](https://app.powerbi.com/report
 [![Click for a better analysis](images/Snapshot.png)](https://app.powerbi.com/reportEmbed?reportId=3d5b1bec-08ca-4d82-84b4-a3044bd442d2&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
 
 ### Conclusions
-* The best customers are Jordan Turner, Maurice Shan, Janet Munoz, and Lisa Cai
-* The best product is the Mountain-200 Black but all color sell well
-* During July, September, and November 2020 our sales were less than Budget. I need more information to understand why
+* Mexico is the only region that met company goals
+* The best customers are Ida Rodriguez, James Horvat, Dawn Laner
+* The most profitale product is Landslide Seaseme Oil 
+* Orders and Profits both increased from 2019 to 2020
