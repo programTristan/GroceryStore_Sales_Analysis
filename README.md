@@ -5,7 +5,7 @@
 * We can obtain conclusions that will help us to make better marketing campaigns and improve profits.
 
 ### Objectives:
-Develop a sales report for 2019/2020 annual sales and returns.  Summarized information about the business´s current situation to understand how to make more profits. 
+Develop a sales report for 2019/2020 annual sales and returns. Summarize information about the business´s current situation to understand how to make more profits. 
 
 The most important indicators are sales, region, top customers, and top products:
 
@@ -13,9 +13,9 @@ The most important indicators are sales, region, top customers, and top products
 
 | Demanding | Value | Deliverable |
 | ----------- | ----------- | ----------|
-| An overview of sales organized by clients | To acknowledge which customers, buy more and how to sell more to them | A dashboard that can filter customers by product, city, and relevance  |
-| A detailed overview of the best products | To follow those products that have better sales | A dashboard that can filter products by customer, city, and relevance |
-| A dashboard that summarizes the company's current situation |To understand which products and customers have the biggest impact on the company |A dashboard that shows the most important metrics and that can be updated everyday |
+| A  anaylsis on the different types of customer membership levels | Identifying the types of customers that contribute revunue and the products they buy | A dashboard that displays revenue streams, filtered by membership levels and other variables|
+| A detailed overview of 2019 and 2020 sales | To clearly highlight comapny performance and indicate areas to improve| A dashboard that can filter displays KPIs for orders, profit and returns, which can also be analysed at a monthly level
+| A dashboard that summarizes crucial information for exectuives |To understand which products, regions and customers have the biggest impact on the company |A dashboard that displays crucial information and shows key metrics and that can be updated everyday |
 
 
 ### Data preparation
@@ -35,7 +35,7 @@ You can see in this image the data model used in Power BI after the data was ext
 ![Data model](images/Data_model.png)
 
 ### Visualizations 
-The final product is a 3 pages dashboard. The first is a snapshot of sales performance while other two focus on customers and sale metrics
+The final product is a 3 pages dashboard. The first is a comapnay snapshot, the second is customer analysis and lastly an overview of sales performance.
 
 You can see the final dashboard clicking **[HERE](https://app.powerbi.com/reportEmbed?reportId=3d5b1bec-08ca-4d82-84b4-a3044bd442d2&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)** or in the image below
 
@@ -45,4 +45,4 @@ You can see the final dashboard clicking **[HERE](https://app.powerbi.com/report
 * Mexico is the only region that met company goals
 * The best customers are Ida Rodriguez, James Horvat, Dawn Laner
 * The most profitale product is Landslide Seaseme Oil 
-* Orders and Profits increased in 2020, as well as the number of Returns.
+* Orders and Profits increased in 2020, as well as the number of returns.
