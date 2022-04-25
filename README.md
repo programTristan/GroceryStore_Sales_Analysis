@@ -39,7 +39,7 @@ The final product is a 3 pages dashboard. The first is a comapnay snapshot, the 
 
 You can see the final dashboard clicking **[HERE](https://app.powerbi.com/reportEmbed?reportId=3d5b1bec-08ca-4d82-84b4-a3044bd442d2&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)** or in the image below
 
-[![Click for a better analysis](images/Snapshot.png)](https://app.powerbi.com/reportEmbed?reportId=3d5b1bec-08ca-4d82-84b4-a3044bd442d2&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
+[![Click image to download file](images/Snapshot.png)](https://github.com/programTristan/GroceryStore_Sales_Analysis/raw/main/PowerBi_file/TristanAppleby_GrocerySalesDash%20.pbix)
 
 ### Conclusions
 * Mexico is the only region that met company goals
