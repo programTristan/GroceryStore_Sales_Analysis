@@ -37,7 +37,7 @@ You can see in this image the data model used in Power BI after the data was ext
 ### Visualizations 
 The final product is a 3 pages dashboard. The first is a comapnay snapshot, the second is customer analysis and lastly an overview of sales performance.
 
-You can see the final dashboard clicking **[HERE](https://app.powerbi.com/reportEmbed?reportId=3d5b1bec-08ca-4d82-84b4-a3044bd442d2&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)** or in the image below
+You can download the dashboard file**[HERE](https://github.com/programTristan/GroceryStore_Sales_Analysis/raw/main/PowerBi_file/TristanAppleby_GrocerySalesDash%20.pbix)** or in the image below
 
 [![Click image to download file](images/Snapshot.png)](https://github.com/programTristan/GroceryStore_Sales_Analysis/raw/main/PowerBi_file/TristanAppleby_GrocerySalesDash%20.pbix)
 
