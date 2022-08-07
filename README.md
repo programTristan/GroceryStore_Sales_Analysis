@@ -37,12 +37,12 @@ You can see in this image the data model used in Power BI after the data was ext
 ### Visualizations 
 The final product is a 3 pages dashboard. The first is a comapnay snapshot, the second is customer analysis and lastly an overview of sales performance.
 
-You can download the dashboard file**[HERE](https://github.com/programTristan/GroceryStore_Sales_Analysis/raw/main/PowerBi_file/TristanAppleby_GrocerySalesDash%20.pbix)** or click the image below
+You can download the dashboard file **[HERE](https://github.com/programTristan/GroceryStore_Sales_Analysis/raw/main/PowerBi_file/TristanAppleby_GrocerySalesDash%20.pbix)** or click the image below
 
 [![Click image to download file](images/Snapshot.png)](https://github.com/programTristan/GroceryStore_Sales_Analysis/raw/main/PowerBi_file/TristanAppleby_GrocerySalesDash%20.pbix)
 
 ### Conclusions
 * Mexico is the only region that met company goals
 * The best customers are Ida Rodriguez, James Horvat, Dawn Laner
-* The most profitale product is Landslide Seaseme Oil 
+* The most profitable product is Landslide Seaseme Oil 
 * Orders and Profits increased in 2020, as well as the number of returns.
